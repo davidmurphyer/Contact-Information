@@ -1,0 +1,26 @@
+{
+"name": "babygrokkkwyoyou008-fwe",
+"version": "1.0.0",
+"description": "If you have any questions or suggestions, feel free to contact us, and we'll get back to you as soon as possible",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/davidmurphyer/Contact-Information.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "davidmurphyer",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
